@@ -1,0 +1,46 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Kaggle / Secrets
+kaggle.json
+
+# Data
+chest-xray/
+data/
+datasets/
+*.zip
+*.csv
+*.png
+*.jpeg
+*.jpg
+
+# Models
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS Data
+.DS_Store
+Thumbs.db
+
+# Obslete
+old/
