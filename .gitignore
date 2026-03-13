@@ -12,7 +12,8 @@ ENV/
 kaggle.json
 
 # Data
-chest-xray/
+chest_xray/
+chest_xray_ii/
 data/
 datasets/
 *.zip
